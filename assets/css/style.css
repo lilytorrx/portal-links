@@ -50,8 +50,11 @@ main {
     gap: 20px;
     font-size: 1.3rem;
     margin-top: 50px;
-    margin-bottom: 40px;
 } 
+
+.ig {
+    margin-bottom: 20px;
+}
 
 .botoes {
     display: flex;
